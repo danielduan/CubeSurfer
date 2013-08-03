@@ -1,0 +1,7 @@
+/Developer/SDKs/Research In Motion/BlackBerry 10 WebWorks SDK 1.0.4.11
+
+/Users/danielduan/RippleSites/BBCube
+
+BBCube
+
+/Users/danielduan/RippleSites/

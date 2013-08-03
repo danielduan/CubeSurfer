@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets"
+	xmlns:rim="http://www.blackberry.com/ns/widgets"
+	version="1.0.0.0" id="BBCube">
+
+	<name>Cube Surfer</name>
+	<author>Daniel Duan</author>
+	<description>Infinite cube runner for Blackberry</description>
+	<content src="index.html" />
+	<feature id="blackberry.app">
+    	<param name="orientation" value="landscape" />
+	</feature>
+	<feature id="blackberry.sensors" required="true" version="1.0.0.0"/>
+	<icon src="img/icon.png"/>
+	<feature id="community.preventsleep" required="true" version="1.0.0.0" />
+</widget>
